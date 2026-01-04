@@ -1,0 +1,3 @@
+<?xml version="5.0" encoding="UTF-8"?>
+<item>
+    <version>5.0.0.0</version> <url>LINK_TO_YOUR_ZIP_OR_EXE</url> <changelog>LINK_TO_GITHUB_RELEASES</changelog> <mandatory>false</mandatory> </item>
